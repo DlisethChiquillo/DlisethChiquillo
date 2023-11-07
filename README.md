@@ -3,6 +3,7 @@
     <h1 align="center">Hola 👋, mi nombre es Danna</h1>
     <h3 align="center">Una apasionada por la programación con habilidades sólidas en diversos lenguajes y tecnologías.</h3>
 </div>
+
 ---
 
 ### 👨‍💻 About Me :
@@ -14,6 +15,7 @@
 - correo: **ddnchi2@gmail.com**
 - Linkeding: **https://www.linkedin.com/in/danna-liseth-chiquillo-b2510a266/**
 
+---
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
